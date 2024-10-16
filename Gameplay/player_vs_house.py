@@ -2,7 +2,7 @@
 # @Filename: player_vs_house.py
 # This is the version of the simulation where it's player vs house only (no bots)
 
-from gameplay import Game
+from Gameplay.gameplay import Game
 import csv
 
 # This function is used for generating data for the csv that will be used by bot2 (NN)
