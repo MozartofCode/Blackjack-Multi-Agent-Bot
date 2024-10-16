@@ -3,7 +3,7 @@
 # Bot3 is an AI bot that makes decisions and bettings based on a neural network and the .csv dataset
 # that I generated with the moves of myself against the house (player)
 
-from  Bots.AI_Models.NN import predict_move
+from  AI_Models.NN import predict_move
 import math
 import pandas as pd
 import tensorflow as tf

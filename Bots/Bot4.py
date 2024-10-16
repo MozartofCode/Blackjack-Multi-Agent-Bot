@@ -6,7 +6,7 @@
 import pandas as pd
 import joblib
 import math
-from  Bots.AI_Models.Random_Forest import predict_move
+from  AI_Models.Random_Forest import predict_move
 import os
 
 class Bot4:

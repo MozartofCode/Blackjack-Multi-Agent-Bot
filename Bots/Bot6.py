@@ -8,7 +8,7 @@
 # print(f"Predicted Move: {predicted_move}")
 # 1 hit, 0 stand
 
-from  Bots.AI_Models.Q_Learning import predict_move
+from  AI_Models.Q_Learning import predict_move
 import os
 import math
 import numpy as np
